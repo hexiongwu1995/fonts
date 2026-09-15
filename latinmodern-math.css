@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Latin Modern Math';
+  src: url('latinmodern-math.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+math {
+  font-family: 'Latin Modern Math', 'Cambria Math', 'STIX Two Math', serif;
+}
